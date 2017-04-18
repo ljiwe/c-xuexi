@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1490710810 source:d:\c学习资料\c语言代码操作案例 (1)\c语言练习\商城系统\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
